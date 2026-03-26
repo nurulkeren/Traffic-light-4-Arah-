@@ -1,7 +1,7 @@
 # Traffic-light-4-Arah-
 Traffic Light 4 Arah menggunakan Arduino Uno dengan sistem GPIO.  Lampu bekerja secara otomatis dan bergantian (Utara, Timur, Selatan, Barat)  dengan timing sesuai ketentuan tanpa konflik antar simpang.
 
-# 🚦 Sistem Traffic Light 4 Arah (Arduino Uno)
+# Sistem Traffic Light 4 Arah (Arduino Uno)
 
 Project ini merupakan implementasi sistem lampu lalu lintas 4 arah menggunakan Arduino Uno dengan memanfaatkan pin GPIO. Sistem ini mengatur nyala LED (Merah, Kuning, Hijau) untuk setiap arah secara bergantian dan otomatis.
 
@@ -86,6 +86,10 @@ Project ini dibuat untuk memahami:
 
 ---
 
+## Link Simulasi Thinkercad
+https://www.tinkercad.com/things/58NFnLniPmC/editel?returnTo=%2Fdashboard&sharecode=ubC9X6Wo1MOm0BPOL24QRef5BQikwVnxyzIzHmnIsaI
+
+---
 ## Catatan
 
 Simulasi dapat dibuat menggunakan Tinkercad, dan program diupload ke Arduino Uno untuk pengujian secara langsung.
